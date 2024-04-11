@@ -1,6 +1,6 @@
 {
   "packages": {
-    ".": {
+    "hostspot/static/js3": {
       "changelog-path": "CHANGELOG.md",
       "release-type": "node",
       "bump-minor-pre-major": false,
