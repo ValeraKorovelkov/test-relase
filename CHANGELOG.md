@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.0.0](https://github.com/ValeraKorovelkov/test-relase/compare/v1.1.0...v2.0.0) (2024-05-24)
+
+
+### Features
+
+* remove second component ([9c61949](https://github.com/ValeraKorovelkov/test-relase/commit/9c6194940f88fb7734a1a2ef76914ff5f201031c))
+
+
+### Bug Fixes
+
+* fix manifest ([5d7c432](https://github.com/ValeraKorovelkov/test-relase/commit/5d7c432f5a0b21b1e718045a91795415a08132aa))
+* remove changelog ([ccbf161](https://github.com/ValeraKorovelkov/test-relase/commit/ccbf1614118c5653f59ece6210278a066694aa2e))
+
+
+### Miscellaneous Chores
+
+* fix release version ([31a88b1](https://github.com/ValeraKorovelkov/test-relase/commit/31a88b1dac8d195f89d2bb56627b227bba271a6e))
+
 ## [1.1.0](https://github.com/ValeraKorovelkov/test-relase/compare/v1.0.0...v1.1.0) (2024-04-11)
 
 
