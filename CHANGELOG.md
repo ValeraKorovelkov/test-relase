@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/ValeraKorovelkov/test-relase/compare/v2.0.0...v2.1.0) (2025-05-02)
+
+
+### Features
+
+* testing ([7bba716](https://github.com/ValeraKorovelkov/test-relase/commit/7bba7160ef1eac2c4445a4e90b745e814b582733))
+
 ## [2.0.0](https://github.com/ValeraKorovelkov/test-relase/compare/v1.1.0...v2.0.0) (2025-05-02)
 
 
