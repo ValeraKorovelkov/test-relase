@@ -18,7 +18,7 @@ function getAppName() {
 }
 
 const customConfig = () => ({
-  version: "1.0.0", // x-release-please-version
+  version: "2.1.0", // x-release-please-version
   orientation: "portrait",
   icon: "./assets/images/icon.png",
   scheme: "myapp",
